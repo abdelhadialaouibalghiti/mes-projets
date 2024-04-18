@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ECEBooking 2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ECEBookingJoulaye/ECEBooking 2/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingJoulaye/ECEBooking 2/mysql-connector-j-8.0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingJoulaye/ECEBooking 2/activation-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

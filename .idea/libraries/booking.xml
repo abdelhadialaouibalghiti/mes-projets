@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="booking">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ECEBookingFinalLol.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingJadoux.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingJoulaye.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ECEBookingJoulaye 3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ECEBookingFinalLol/ECEBookingJoulaye 3/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingFinalLol/ECEBookingJoulaye 3/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ECEBookingFinalLol/ECEBookingJoulaye 3/mysql-connector-j-8.0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ideaLibSources/mysql-connector-j-8.0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
